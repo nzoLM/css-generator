@@ -1,0 +1,55 @@
+body{
+
+\width : fit-content;
+
+	display : grid;
+	grid-gap : 50px;
+	padding : 0px;
+	margin : 0px;
+	grid-template-columns : repeat(2, 1fr);
+}
+.img3{
+	width : 200px;
+	padding : 0px;
+	margin : 0px;
+	height : 200px;
+	background : url(imgs/img2/img3.png)no-repeat ;
+
+	background-size: 200px 200px;
+}
+.img2{
+	width : 200px;
+	padding : 0px;
+	margin : 0px;
+	height : 200px;
+	background : url(imgs/img2.png)no-repeat ;
+
+	background-size: 200px 200px;
+}
+.moon{
+	width : 200px;
+	padding : 0px;
+	margin : 0px;
+	height : 200px;
+	background : url(imgs/moon.png)no-repeat ;
+
+	background-size: 200px 200px;
+}
+.sun{
+	width : 200px;
+	padding : 0px;
+	margin : 0px;
+	height : 200px;
+	background : url(imgs/sun.png)no-repeat ;
+
+	background-size: 200px 200px;
+}
+.img1{
+	width : 200px;
+	padding : 0px;
+	margin : 0px;
+	height : 200px;
+	background : url(imgs/img1.png)no-repeat ;
+
+	background-size: 200px 200px;
+}

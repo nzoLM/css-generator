@@ -1,0 +1,31 @@
+body{
+
+	display : grid;
+	grid-gap : 0px;
+	grid-template-columns : repeat(0, 1fr);
+}
+.img3{
+	width : 2168px;
+	height : 3508px;
+	background : url(imgs/img2/img3.png)no-repeat ;
+}
+.img2{
+	width : 1672px;
+	height : 2776px;
+	background : url(imgs/img2.png)no-repeat ;
+}
+.moon{
+	width : 1940px;
+	height : 1980px;
+	background : url(imgs/moon.png)no-repeat ;
+}
+.sun{
+	width : 3688px;
+	height : 3628px;
+	background : url(imgs/sun.png)no-repeat ;
+}
+.img1{
+	width : 1564px;
+	height : 2288px;
+	background : url(imgs/img1.png)no-repeat ;
+}
